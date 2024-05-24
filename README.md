@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Anselme ATCHOGOU
 
-<!--
-**AnsoATC/ansoatc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring AI Engineer | Master's Student in Intelligent Systems Engineering | Entrepreneur | Software Developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 I hold a Bachelor's degree in Computer Science and Telecommunications and I'm currently pursuing a Master's in Artificial Intelligence. I'm passionate about new technologies, especially AI.
+
+💡 I'm someone who seizes every opportunity to learn something new, which is why I love challenges.
+
+📊 I'm also a Data Scientist and a Microsoft Learn Student Ambassador.
+
+---
+
+### 📫 Contact Me:
+
+- **Email:** anselmeatchogou@gmail.com
+- **LinkedIn:** [Anselme ATCHOGOU](https://www.linkedin.com/in/anselme-atchogou/)
+- **Twitter:** [@anselme_IA](https://twitter.com/anselme_IA)
+
+---
+
+Thanks for visiting my GitHub profile! Feel free to explore my projects and reach out if you'd like to collaborate or chat about technology. 🚀
