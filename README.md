@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anselme ATCHOGOU
 
-### Aspiring AI Engineer | Master's Student in Intelligent Systems Engineering | Entrepreneur | Software Developer
+### AI Engineer | Master's Student in Intelligent Systems Engineering | Entrepreneur | Software Developer
 
 ---
 
